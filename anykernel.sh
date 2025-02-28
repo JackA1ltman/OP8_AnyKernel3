@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= REAL-KING KERNEL by ROHAIL(@Rohail33)--Telegram
+kernel.string= Automatic build kernel by JackAltman--Github@JackA1ltman
 do.devicecheck=0
 do.modules=0
 do.systemless=0
